@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+opencv-python
+mediapipe
+Pillow
+gtts
+arabic-reshaper
+bidi.algorithm
+pyperclip
